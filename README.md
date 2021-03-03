@@ -13,5 +13,5 @@
 
 You can find out more about me on my: [website](https://ishanax.github.io/ishanacv.github.io/) 
 Get in touch with me on: [linkedin](https://www.linkedin.com/in/ishana-koopman-a63683b9/)
-[<img alt="Ishana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Ishana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
