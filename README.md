@@ -1,6 +1,6 @@
-### Hi there, I'm Ishana 👋
+## Hi there, I'm Ishana 👋
 
-## I'm a self-taught front-end developer, that loves creative design and has a master's in Philosophy! ✨
+### I'm a self-taught front-end developer, that loves creative design and has a master's in Philosophy! ✨
 
 
 - 🔭 I’m currently doing a front-end web developer internship
