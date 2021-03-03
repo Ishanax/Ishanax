@@ -6,11 +6,13 @@
 
 
 - 🔭 I’m currently doing a front-end web developer internship
-- 🌱 I’m currently learning React
+- :rocket: My current project is a website that promotes holidays to planet Mars
+- 🌱 I want to learn more React
+- :bulb: My 2021 goal is to contribute to opensource projects
 - 👯 I’m looking to collaborate on anything
 - :speech_balloon: Ask me about anything
 - :building_construction: I’m looking for a front-end developer job 
-- ⚡ Fun fact: I'm an outdoor enthusiast that enjoys rockclimbing, kitesurfing, hiking, cycling and skiing :mountain_snow:
+- ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rockclimbing, kitesurfing, hiking, cycling and skiing :mountain_snow:
 
 ### Languages and Tools:
 
@@ -21,7 +23,9 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br /><br />
+
+
 
 You can find out more about me on my [website](https://ishanax.github.io/ishanacv.github.io/) 
-or get in touch with me on [linkedin](https://www.linkedin.com/in/ishana-koopman-a63683b9/)
+or get in touch with me on [Linkedin](https://www.linkedin.com/in/ishana-koopman-a63683b9/).
