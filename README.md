@@ -1,4 +1,4 @@
-<img src="https://github.com/Ishanax/Ishanax/blob/main/readme/BannerGithub.svg">
+<img src="https://github.com/Ishanax/Ishanax/blob/main/BannerGithub.png">
 
 ## Hi there, I'm Ishana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
