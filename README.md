@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ishana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a self-taught front-end developer, that loves creative design and has a master's in Philosophy! ✨
+### I'm a self-taught front-end developer that loves creative design and has a master's in Philosophy! ✨
 
 
 - 🔭 I’m currently doing a front-end web developer internship
