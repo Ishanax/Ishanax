@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I'm an outdoor enthusiast that enjoys rockclimbing, kitesurfing, hiking, cycling and skiing
 
 
-You can find out more about me on [Website](https://ishanax.github.io/ishanacv.github.io/)
+You can find out more about me on my [website](https://ishanax.github.io/ishanacv.github.io/).
 
