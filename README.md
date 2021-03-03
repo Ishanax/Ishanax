@@ -23,5 +23,3 @@
 
 You can find out more about me on my [website](https://ishanax.github.io/ishanacv.github.io/) 
 or get in touch with me on [linkedin](https://www.linkedin.com/in/ishana-koopman-a63683b9/)
-
-
