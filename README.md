@@ -6,12 +6,13 @@
 
 
 - 🔭 I’m currently doing a front-end web developer internship
-- :rocket: My current project is a website that promotes holidays to planet Mars
+- :rocket: My current project is a [website](https://ishanax.github.io/HolidayOnMars) that promotes holidays to planet Mars
 - 🌱 I want to learn more React
 - :bulb: My 2021 goal is to contribute to opensource projects
 - 👯 I’m looking to collaborate on anything
 - :speech_balloon: Ask me about anything
 - :building_construction: I’m looking for a front-end developer job 
+
 - ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rockclimbing, kitesurfing, hiking, cycling and skiing :mountain_snow:
 
 ### Languages and Tools:
