@@ -12,7 +12,7 @@
 - :speech_balloon: Ask me about anything
 - :building_construction: I’m looking for a front-end developer job 
 
-- ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rockclimbing, kitesurfing, hiking, cycling and skiing :mountain_snow:
+- ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rock climbing, kite surfing, hiking, cycling and skiing :mountain_snow:
 
 ### Languages and Tools:
 
