@@ -7,7 +7,7 @@
 
 - :rocket: My current project is a [website](https://ishanax.github.io/HolidayOnMars) that promotes holidays to planet Mars
 - 🌱 I want to learn more React
-- :bulb: My 2021 goal is to contribute to opensource projects
+- :bulb: My 2021 goal is to contribute to open source projects
 - 👯 I’m looking to collaborate on anything
 - :speech_balloon: Ask me about anything
 - :building_construction: I’m looking for a front-end developer job 
