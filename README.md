@@ -5,7 +5,7 @@
 ### I'm a self-taught front-end developer that loves creative design and has a master's in Philosophy! ✨
 
 
-- :rocket: My current project is a [website](https://ishanax.github.io/HolidayOnMars) that promotes holidays to planet Mars
+- :rocket: My current project is making a Wordpress.org site for a digital artist. 
 - 🌱 I want to learn more React
 - :bulb: My 2021 goal is to contribute to open source projects
 - 👯 I’m looking to collaborate on anything
