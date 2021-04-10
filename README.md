@@ -5,7 +5,7 @@
 ### I'm a self-taught front-end developer that loves creative design and has a master's in Philosophy! ✨
 
 
-- :rocket: My current project is making a Wordpress.org site for a digital artist. 
+- :rocket: My current project is making a Wordpress.org site for a digital artist 
 - 🌱 I want to learn more React
 - :bulb: My 2021 goal is to contribute to open source projects
 - 👯 I’m looking to collaborate on anything
@@ -27,5 +27,5 @@
 
 
 
-You can find out more about me on my [website](https://ishanax.github.io/ishanacv.github.io/) 
+You can find out more about me on my [website](https://ishanax.github.io/portfolio/) 
 or get in touch with me on [Linkedin](https://www.linkedin.com/in/ishana-koopman-a63683b9/).
