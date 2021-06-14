@@ -8,9 +8,6 @@
 - :rocket: My current project is making a quiz application: https://github.com/Ishanax/quiz
 - 🧪 I'm testing websites for Testbirds 
 - 🌱 I want to learn more React
-- :bulb: My 2021 goal is to contribute to open source projects
-- 👯 I’m looking to collaborate on anything
-- :speech_balloon: Ask me about anything
 - :building_construction: I’m looking for a front-end developer job 
 
 - ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rock climbing, kite surfing, hiking, cycling and skiing :mountain_snow:
