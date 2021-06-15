@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ishana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a self-taught front-end developer that loves creative design and has a master's in Philosophy! ✨
+### I'm a self-taught front-end developer that loves creative design ✨
 
 
 - :rocket: My current project is making a quiz application: https://github.com/Ishanax/quiz
