@@ -5,12 +5,11 @@
 ### I'm a self-taught front-end developer that loves creative design ✨
 
 
-- :rocket: My current project is making a quiz application: https://github.com/Ishanax/quiz
-- 🧪 I'm testing websites for Testbirds 
-- 🌱 I want to learn more React
-- :building_construction: I’m looking for a front-end developer job 
+- :rocket: For my latest project I've made a pac-man game https://ishanax.github.io/Pac-Man/
+- 🌱 This year I want to get better at React
+- :building_construction: I'm currently doing an internship as a front-end web developer ☕
 
-- ⚡ Unrelevant information: I'm an outdoor enthusiast that enjoys rock climbing, kite surfing, hiking, cycling and skiing :mountain_snow:
+
 
 ### Languages and Tools:
 
